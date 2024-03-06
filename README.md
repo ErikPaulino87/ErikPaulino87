@@ -8,7 +8,7 @@
     <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div> 
 
-  - 🌱 Atualmente estou aprendendo             
+- 🌱 Atualmente estou aprendendo             
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="40" height="40" />
@@ -16,7 +16,10 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
 
 
+--------------------------------------------------------------------------------------------
 
+
+<img src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif" />
 
 <div>
 <a href="https://github.com/ErikPaulino87">
@@ -24,7 +27,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ErikPaulino87&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div class="tenor-gif-embed" data-postid="25011979" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/scaler-create-impact-code-sleep-time-gif-25011979">Scaler Create Impact GIF</a>from <a href="https://tenor.com/search/scaler-gifs">Scaler GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+          
 
 
 
