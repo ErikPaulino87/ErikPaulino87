@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003366&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Erik+Paulino.;Seja+bem+vindo!👨‍💻)](https://git.io/typing-svg)
 
-<table align="center">
+<table align="center" style="width: 100%; max-width: 800px;">
   <tr>
-    <td width="150" valign="middle">
-      <img src="https://github.com/ErikPaulino87/ErikPaulino87/blob/af47357dcd45dbe1a16322049b04f01637cfc01e/desenho.jpg" alt="Erik-desenho" style="width: 100%; height: 100%; object-fit: cover;">
+    <td width="150" valign="middle" style="text-align: center;">
+      <img src="https://github.com/ErikPaulino87/ErikPaulino87/blob/af47357dcd45dbe1a16322049b04f01637cfc01e/desenho.jpg" alt="Erik-desenho" style="width: 100%; height: auto; object-fit: cover;">
     </td>
     <td valign="middle">
-      <ul>
+      <ul style="list-style-type: none; padding-left: 0;">
         <li>👨‍💻 Meu nome é Erik Paulino</li>
         <li>🎓 Cursando Sistemas de Informação na Faculdade Impacta</li>
         <li>🎮 Gosto de desafios, aprender coisas novas e montar quebra-cabeças</li>
@@ -17,11 +17,11 @@
 </table>
 
 <div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=130&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=130&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <div align="center">
-  <div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <a href="https://github.com/ErikPaulino87">
       <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=ErikPaulino87&locale=pt-br&theme=tokyonight&show_icons=true&card_width=460" />  
     </a>
@@ -31,7 +31,7 @@
   </div>
 </div>
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
   <img align="center" alt="Erik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Erik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Erik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -44,7 +44,7 @@
   <img align="center" alt="Erik-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=130&section=footer"/>
 
 <div align="center">
   <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952ilr8tufvz6irjgzet9kaj7fbhs401a1rapq61sep&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="programming gif" width="250"/>
