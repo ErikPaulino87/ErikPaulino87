@@ -1,22 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Erik+Paulino.;Sinta-se+à+vontade!👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003366&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Erik+Paulino.;Seja+bem+vindo!👨‍💻)](https://git.io/typing-svg)
 
 <table align="center">
   <tr>
     <td width="150" valign="middle">
-      <img src="https://media.tenor.com/Jz74xIjyk24AAAAC/coding.gif" alt="Erik-desenho">
+      <img src="https://github.com/ErikPaulino87/ErikPaulino87/blob/af47357dcd45dbe1a16322049b04f01637cfc01e/desenho.jpg" alt="Erik-desenho" style="width: 100%; height: 100%; object-fit: cover;">
     </td>
     <td valign="middle">
       <ul>
         <li>👨‍💻 Meu nome é Erik Paulino</li>
         <li>🎓 Cursando Sistemas de Informação na Faculdade Impacta</li>
         <li>🎮 Gosto de desafios, aprender coisas novas e montar quebra-cabeças</li>
+        <li>🎨 Também sou apaixonado por UX/UI design</li>
       </ul>
     </td>
   </tr>
 </table>
 
 <div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=130&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=130&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <div align="center">
@@ -43,7 +44,11 @@
   <img align="center" alt="Erik-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=130&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=130&section=footer"/>
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952ilr8tufvz6irjgzet9kaj7fbhs401a1rapq61sep&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="programming gif" width="250"/>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/erik-paulino-bb0a021b9" target="_blank">
