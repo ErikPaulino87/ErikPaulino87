@@ -16,6 +16,15 @@
   </tr>
 </table>
 
+<div align="center">
+
+---
+### Meus Principais Projetos
+
+[![Projeto Buildar](https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Buildar&repo=buildar&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Projeto-Buildar/buildar)
+
+</div>
+
 <div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=130&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
